@@ -22,6 +22,11 @@ h3{
   border-radius: 100%;
 }
 
+.lien{
+  text-decoration: none;
+  text_color: gold;
+}
+
 .contact_me1 {
   text-decoration: none;
   color: black;
