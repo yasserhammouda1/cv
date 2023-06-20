@@ -1,0 +1,41 @@
+body{
+  background-color: #EAF6F6;
+}
+hr {
+  border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 20px;
+}
+h1{
+  color:#0097a7;
+}
+h3{
+  color:#0097a7;
+}
+.Yasser{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: 60% 40%;
+  border-radius: 100%;
+}
+
+.contact_me1 {
+  text-decoration: none;
+  color: black;
+  outline: 0;
+  display:block;
+}
+.contact_me {
+  padding: 1px 7px;
+  background-color: #0097a7;
+  border-radius: 5px;
+  border: none;
+}
+.contact_me:hover {
+  box-shadow: 0 3px 6px black;
+  cursor: pointer;
+}
+.contact_me:active
